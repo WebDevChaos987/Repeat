@@ -1,2 +1,3 @@
 from .repeat_int import repeat
 from .repeat_int import clear
+from .repeat_int import wait
